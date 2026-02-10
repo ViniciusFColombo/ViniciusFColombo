@@ -26,11 +26,11 @@ Me chamo Vinicius Ferreira Colombo, tenho 29 anos e sou natural de Guarulhos - S
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://img.icons8.com/?size=100&id=13441&format=png&color=3776AB" 
 />
 <img 
     align="left" 
