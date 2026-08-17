@@ -1,45 +1,46 @@
-# 🧑‍💻 Vinicius Ferreira Colombo
+# 👋 Sobre mí
 
-**`Desenvolvedor FullStack`**
+¡Hola! Soy **Vinicius Ferreira Colombo**, desarrollador enfocado en **Python, desarrollo de APIs, automatización e Inteligencia Artificial**.
 
-Me chamo Vinicius Ferreira Colombo, tenho 29 anos e sou natural de Guarulhos - São Paulo, porém vivo desde os 6 anos de idade no interior na cidade chamada Potirendaba.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP São José do Rio Preto - SP. Sempre fui curioso com tecnologia e, depois de muito planejamento e economia, resolvi sair do meu antigo emprego para entrar na faculdade e me dedicar de verdade à programação. Hoje estou focado em aprender e evoluir como desenvolvedor, tanto no front-end quanto no back-end.
+🎓 Recientemente terminé mi carrera de **Análisis y Desarrollo de Sistemas (ADS)** y actualmente estoy preparando mi próximo paso profesional: **me mudaré a Zaragoza, España**, donde continuaré mis estudios y buscaré desarrollar mi carrera en el área de tecnología.
 
+💻 Durante mi formación he desarrollado proyectos prácticos para ampliar mis conocimientos y construir un portafolio enfocado en soluciones reales.
 
+### 🚀 Proyectos destacados
 
-### 🤖 Linguagens e Tecnologias
+**📦 LogiStock Aragón**
+Sistema inteligente de gestión de inventarios desarrollado con **FastAPI, PostgreSQL, React.js, Docker y un Agente de IA**. El proyecto utiliza el patrón **Service-Repository**, autenticación JWT, testing automatizado y una base de datos PostgreSQL alojada en Neon.
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=13441&format=png&color=3776AB" 
-/>
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+Con este proyecto profundicé especialmente en:
 
-<br/>
-<br/>
+* 🐍 Python y FastAPI
+* ⚛️ React.js y Vite
+* 🐳 Docker y Docker Compose
+* 🗄️ PostgreSQL y SQLAlchemy
+* 🤖 Integración de Inteligencia Artificial
+* 🔐 JWT y gestión de variables de entorno
+* 🧪 Pytest y cobertura de tests
+* 🎨 Tailwind CSS y Lucide Icons
+* 🏗️ Arquitectura Service-Repository
+
+**💱 Currency Intelligence Dashboard**
+Dashboard interactivo para análisis y conversión de monedas, desarrollado como uno de mis proyectos anteriores para practicar el consumo de datos, procesamiento de información y visualización de indicadores.
+
+### 🛠️ Tecnologías
+
+**Principalmente:**
+Python · FastAPI · Pandas · PostgreSQL · SQLAlchemy · APIs REST
+
+**En desarrollo:**
+React.js · Docker · Docker Compose · Tailwind CSS · Lucide Icons · Inteligencia Artificial
+
+### 🎯 Objetivo profesional
+
+Mi objetivo es continuar creciendo como desarrollador, especialmente en el ecosistema **Python**, construyendo aplicaciones, APIs y automatizaciones que resuelvan problemas reales.
+
+Actualmente estoy enfocado en fortalecer mis conocimientos de **backend, arquitectura de software, bases de datos, Docker, desarrollo Full-Stack e integración de IA**, mientras busco oportunidades profesionales en España.
+
+---
+
+📍 **Próximo destino: Zaragoza, España 🇪🇸**
+
